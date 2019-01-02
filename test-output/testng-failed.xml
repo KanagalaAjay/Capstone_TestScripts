@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Individual Sprints]">
+  <test name="Sprint3(failed)">
+    <classes>
+      <class name="automationFramework.Basic_Regression">
+        <methods>
+          <include name="DonationPreferences"/>
+          <include name="launch"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- automationFramework.Basic_Regression -->
+    </classes>
+  </test> <!-- Sprint3(failed) -->
+</suite> <!-- Failed suite [Individual Sprints] -->
