@@ -1,7 +1,7 @@
 # TestTAGG
 #TAGG Phase2 Automation
 
-This is a repository for ISQA-8950 Section4 Capstone 2018 TAGG phase2 project's testing repository. This will be used to organize our automation testing for TAGG phase2.
+This is a repository for ISQA-8950 Section4 Capstone 2018 TAGG phase2 project's testing repository. This will be used to organize our automation testing for TAGG phase2. This is written in Java to test website TAGG
 
 #Resources
 
